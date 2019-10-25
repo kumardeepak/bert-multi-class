@@ -18,3 +18,5 @@ Default argument is mentioned in the notebook file but you can experiment with m
 
 # caution
 I have removed multi-gpu support code but code runs file on 1 GPU machine. I have tested this on AWS instances and Floydhub account.
+
+Happy to answer questions if you have any.
